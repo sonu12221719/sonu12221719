@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sonu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer and UI/UX designer from India</h3>
 
-- 🌱 I’m currently learning **Java,NodeJs**
+- I’m currently pursuing B.Tech in Computer Science from Lovely Professional University.
 
-- 💬 Ask me about **React and Gsap**
+- Ask me about **React and Gsap**
 
-- 📫 How to reach me **sonukumar200219@gmail.com**
+- How to reach me **sonukumar200219@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
